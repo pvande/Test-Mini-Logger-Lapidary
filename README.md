@@ -3,11 +3,10 @@ Test::Mini::Logger::Lapidary
 
 For those developers familiar with Ruby's `test/unit`, or many other
 xUnit-style frameworks, Perl's testing landscape may seem a little foreign.
-[Test::Mini](http://search.cpan.org/search?query=Test::Mini) aims to help
-bridge the gap somewhat by providing a familiar, unordered assertion-based
-testing paradigm to Perl.  Those looking for something more friendly than the
-default [TAP](http://testanything.org) output, however, will be somewhat
-disappointed.
+[Test::Mini](http://search.cpan.org/dist/Test-Mini/) aims to help bridge the
+gap somewhat by providing a familiar, unordered assertion-based testing
+paradigm to Perl.  Those looking for something more friendly than the default
+[TAP](http://testanything.org) output, however, will be somewhat disappointed.
 
 `Test::Mini::Logger::Lapidary` implements a reasonable approximation of the
 Ruby `test/unit` output, both for compatibility with the existing tools that
